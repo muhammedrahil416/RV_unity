@@ -9,7 +9,9 @@ Features:
 - Event Card
 - Bookmark toggle
 
-<img width="500" height="1000" alt="1000030117 (1)" src="https://github.com/user-attachments/assets/57a4dfeb-8ae1-4be7-ba97-131dc9f26cd3" />
+<img width="500" height="1200" alt="1000030117 (1)" src="https://github.com/user-attachments/assets/430cf29a-1e80-47a7-a1be-3c852e8d67a1" />
+
+
 
 How to run:
 clone the repositry
